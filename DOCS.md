@@ -1,6 +1,18 @@
 # Документация к проекту
 
-## Раздел 1
+## Установка файлов
+
+* Приватная копия:
+```
+git clone https://gitlab.akhcheck.ru/akhtyamovpavel/miptpromprogdaspring2025.git repo
+cd repo
+```
+* Публичная копия:
+```
+git clone https://github.com/akhtyamovpavel/GitExamplesPromDa.git repo
+cd repo
+```
+
 
 ## Раздел 2
 
